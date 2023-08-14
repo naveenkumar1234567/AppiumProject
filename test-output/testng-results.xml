@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-14T21:20:23 IST" name="Default suite" finished-at="2023-08-14T21:21:15 IST" duration-ms="51686">
+    <groups>
+    </groups>
+    <test started-at="2023-08-14T21:20:23 IST" name="Default test" finished-at="2023-08-14T21:21:15 IST" duration-ms="51686">
+      <class name="browserMobilw.MobileWeb">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:browserMobilw.MobileWeb@543295b0]" started-at="2023-08-14T21:20:23 IST" name="configureAppium" finished-at="2023-08-14T21:20:56 IST" duration-ms="32989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="mobileWeb()[pri:0, instance:browserMobilw.MobileWeb@543295b0]" started-at="2023-08-14T21:20:56 IST" name="mobileWeb" finished-at="2023-08-14T21:21:15 IST" duration-ms="18593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileWeb -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:browserMobilw.MobileWeb@543295b0]" started-at="2023-08-14T21:21:15 IST" name="tearDown" finished-at="2023-08-14T21:21:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- browserMobilw.MobileWeb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
